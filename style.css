@@ -1,0 +1,47 @@
+nav
+{
+	background-color: #222222;
+	color:white;
+	margin-top:0px;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
+ul li 
+{
+   list-style: none;
+   display:inline-block;
+   font-size:18px;
+   padding:12px;
+   font-weight: bold;
+   font-family: georgia;
+}
+li:hover
+{
+  background-color: #006164;
+  border-bottom: 2px solid white;
+}
+
+body
+{
+	background-color:#a4a4a4;
+	background: url('background3.jpg') no-repeat fixed center center;
+
+}
+.div2,.div1
+{
+
+  border:2px solid white;
+  margin-bottom:12px;
+  display:inline-block;
+
+}
+.div1
+{
+ float:left;
+}
+.div2
+{
+  float: right;
+}
